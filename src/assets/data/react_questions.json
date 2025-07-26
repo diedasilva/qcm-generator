@@ -1,0 +1,1726 @@
+[
+  {
+    "id": 1,
+    "question": "Qu'est-ce que JSX dans React ?",
+    "options": [
+      "Une extension de syntaxe pour JavaScript",
+      "Une API de gestion d'état",
+      "Un gestionnaire d'événements",
+      "Une bibliothèque de styles"
+    ],
+    "answer": "Une extension de syntaxe pour JavaScript"
+  },
+  {
+    "id": 2,
+    "question": "Comment créer un composant fonctionnel en React ?",
+    "options": [
+      "class MyComponent extends React.Component {}",
+      "function MyComponent() { return <div />; }",
+      "React.createComponent(MyComponent)",
+      "new Component(MyComponent)"
+    ],
+    "answer": "function MyComponent() { return <div />; }"
+  },
+  {
+    "id": 3,
+    "question": "À quoi sert useState ?",
+    "options": [
+      "Gérer le cycle de vie",
+      "Créer des refs",
+      "Gérer l'état local d'un composant fonctionnel",
+      "Déclencher un rendu conditionnel"
+    ],
+    "answer": "Gérer l'état local d'un composant fonctionnel"
+  },
+  {
+    "id": 4,
+    "question": "Quelle méthode permet d'effectuer un effet de bord dans un composant fonctionnel ?",
+    "options": [
+      "useEffect",
+      "componentDidMount",
+      "useCallback",
+      "getSnapshotBeforeUpdate"
+    ],
+    "answer": "useEffect"
+  },
+  {
+    "id": 5,
+    "question": "Comment passer des données d'un composant parent à un enfant ?",
+    "options": [
+      "Via les props",
+      "Via le state global",
+      "Via localStorage",
+      "Via un hook personnalisé"
+    ],
+    "answer": "Via les props"
+  },
+  {
+    "id": 6,
+    "question": "Quel hook permet de mémoriser une valeur calculée pour éviter les recalculs inutiles ?",
+    "options": [
+      "useMemo",
+      "useCallback",
+      "useRef",
+      "useState"
+    ],
+    "answer": "useMemo"
+  },
+  {
+    "id": 7,
+    "question": "Quel hook permet de mémoriser une fonction pour éviter sa recréation à chaque rendu ?",
+    "options": [
+      "useCallback",
+      "useMemo",
+      "useEffect",
+      "useReducer"
+    ],
+    "answer": "useCallback"
+  },
+  {
+    "id": 8,
+    "question": "Comment créer une référence à un élément DOM ?",
+    "options": [
+      "useRef",
+      "createRef",
+      "useDOM",
+      "refetch"
+    ],
+    "answer": "useRef"
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la clé pour optimiser le rendu d'une liste ?",
+    "options": [
+      "La prop key",
+      "L'index du tableau",
+      "La longueur du tableau",
+      "Le style inline"
+    ],
+    "answer": "La prop key"
+  },
+  {
+    "id": 10,
+    "question": "Comment gérer un état complexe basé sur des actions ?",
+    "options": [
+      "useReducer",
+      "useState",
+      "useContext",
+      "useLayoutEffect"
+    ],
+    "answer": "useReducer"
+  },
+  {
+    "id": 11,
+    "question": "Quel composant React Router v6 permet de définir une route ?",
+    "options": [
+      "<Route>",
+      "<Link>",
+      "<Switch>",
+      "<BrowserRouter>"
+    ],
+    "answer": "<Route>"
+  },
+  {
+    "id": 12,
+    "question": "Comment rediriger programmétiquement en React Router ?",
+    "options": [
+      "useNavigate",
+      "useHistory",
+      "Redirect",
+      "Link to"
+    ],
+    "answer": "useNavigate"
+  },
+  {
+    "id": 13,
+    "question": "Quel hook permet de consommer un contexte créé avec React.createContext ?",
+    "options": [
+      "useContext",
+      "useReducer",
+      "useSelector",
+      "useDispatch"
+    ],
+    "answer": "useContext"
+  },
+  {
+    "id": 14,
+    "question": "Comment créer un contexte ?",
+    "options": [
+      "React.createContext()",
+      "new Context()",
+      "createContextHook()",
+      "Context.Provider"
+    ],
+    "answer": "React.createContext()"
+  },
+  {
+    "id": 15,
+    "question": "Quel hook s'exécute avant le rendu du navigateur ?",
+    "options": [
+      "useLayoutEffect",
+      "useEffect",
+      "useInsertionEffect",
+      "useRenderEffect"
+    ],
+    "answer": "useLayoutEffect"
+  },
+  {
+    "id": 16,
+    "question": "Comment optimiser le chargement d'un composant ?",
+    "options": [
+      "React.lazy et Suspense",
+      "useMemo",
+      "useRef",
+      "React.Fragment"
+    ],
+    "answer": "React.lazy et Suspense"
+  },
+  {
+    "id": 17,
+    "question": "Quel est le fragment React ?",
+    "options": [
+      "<></>",
+      "<Fragment />",    
+      "React.Fragment()",
+      "emptyTag"
+    ],
+    "answer": "<> </>"
+  },
+  {
+    "id": 18,
+    "question": "Comment définir des types pour les props d'un composant en TypeScript ?",
+    "options": [
+      "interface Props { }",
+      "type Props = string",
+      "class Props {}",
+      "new Props()"
+    ],
+    "answer": "interface Props { }"
+  },
+  {
+    "id": 19,
+    "question": "Quel hook permet de gérer un reducer globalement sans Redux ?",
+    "options": [
+      "useContext + useReducer",
+      "useGlobalState",
+      "useStore",
+      "useReducerGlobal"
+    ],
+    "answer": "useContext + useReducer"
+  },
+  {
+    "id": 20,
+    "question": "Comment récupérer un paramètre de route ?",
+    "options": [
+      "useParams",
+      "useQuery",
+      "useLocation",
+      "useRouteMatch"
+    ],
+    "answer": "useParams"
+  },
+  {
+    "id": 21,
+    "question": "Quel hook vous aide à écouter les événements de scroll ?",
+    "options": [
+      "useEffect",
+      "useScroll",
+      "useWindowEvent",
+      "useLayoutEffect"
+    ],
+    "answer": "useEffect"
+  },
+  {
+    "id": 22,
+    "question": "Comment empêcher le rendu d'un composant ?",
+    "options": [
+      "return null",
+      "useCallback",
+      "useMemo",
+      "shouldComponentUpdate"
+    ],
+    "answer": "return null"
+  },
+  {
+    "id": 23,
+    "question": "Quel hook choisir pour stocker un compteur entre rendus sans provoquer de re rendu ?",
+    "options": [
+      "useRef",
+      "useState",
+      "useReducer",
+      "useMemo"
+    ],
+    "answer": "useRef"
+  },
+  {
+    "id": 24,
+    "question": "Comment tester un composant React ?",
+    "options": [
+      "Jest + React Testing Library",
+      "Mocha + Chai",
+      "Enzyme uniquement",
+      "Cypress uniquement"
+    ],
+    "answer": "Jest + React Testing Library"
+  },
+  {
+    "id": 25,
+    "question": "Quel est le raccourci pour ouvrir la console React DevTools ?",
+    "options": [
+      "Ctrl+Shift+J",
+      "Ctrl+Shift+I",
+      "Alt+R",
+      "F12"
+    ],
+    "answer": "Ctrl+Shift+J"
+  },
+  {
+    "id": 26,
+    "question": "Quel package installer pour utiliser React Router v6 ?",
+    "options": [
+      "react-router-dom",
+      "react-router",
+      "router6",
+      "react-dom-router"
+    ],
+    "answer": "react-router-dom"
+  },
+  {
+    "id": 27,
+    "question": "Comment définir une route dynamique ?",
+    "options": [
+      "/user/:id",
+      "/user/{id}",
+      "/user/?id",
+      "/user/*"
+    ],
+    "answer": "/user/:id"
+  },
+  {
+    "id": 28,
+    "question": "Quel hook permet d'obtenir l'URL courante ?",
+    "options": [
+      "useLocation",
+      "useParams",
+      "useNavigate",
+      "useRouteMatch"
+    ],
+    "answer": "useLocation"
+  },
+  {
+    "id": 29,
+    "question": "Comment gérer une erreur lors d'un lazy loading ?",
+    "options": [
+      "ErrorBoundary",
+      "CatchBoundary",
+      "useError",
+      "useException"
+    ],
+    "answer": "ErrorBoundary"
+  },
+  {
+    "id": 30,
+    "question": "Quelle méthode React augmente la performance lors du rendu conditionnel de listes ?",
+    "options": [
+      "shouldComponentUpdate",
+      "useMemo",
+      "React.PureComponent",
+      "componentDidUpdate"
+    ],
+    "answer": "React.PureComponent"
+  },
+  {
+    "id": 31,
+    "question": "Comment intégrer Redux dans un projet React ?",
+    "options": [
+      "npm install redux react-redux",
+      "npm install redux-toolkit",
+      "npm install mobx",
+      "npm install zustand"
+    ],
+    "answer": "npm install redux react-redux"
+  },
+  {
+    "id": 32,
+    "question": "Quel package officiel simplifie la configuration de Redux ?",
+    "options": [
+      "@reduxjs/toolkit",
+      "redux-thunk",
+      "redux-saga",
+      "react-saga"
+    ],
+    "answer": "@reduxjs/toolkit"
+  },
+  {
+    "id": 33,
+    "question": "Quel hook Redux permet de lire l'état ?",
+    "options": [
+      "useSelector",
+      "useDispatch",
+      "useStore",
+      "useState"
+    ],
+    "answer": "useSelector"
+  },
+  {
+    "id": 34,
+    "question": "Quel hook Redux permet de dispatch une action ?",
+    "options": [
+      "useDispatch",
+      "useSelector",
+      "useAction",
+      "useEmitter"
+    ],
+    "answer": "useDispatch"
+  },
+  {
+    "id": 35,
+    "question": "Comment créer un slice avec Redux Toolkit ?",
+    "options": [
+      "createSlice",
+      "configureStore",
+      "createAction",
+      "createReducer"
+    ],
+    "answer": "createSlice"
+  },
+  {
+    "id": 36,
+    "question": "Comment ajouter le support TypeScript à Redux Toolkit ?",
+    "options": [
+      "Configurer le store avec types pour RootState et AppDispatch",
+      "Installer redux-ts",
+      "Ajouter d.ts dans src",
+      "Utiliser createGlobalSlice"
+    ],
+    "answer": "Configurer le store avec types pour RootState et AppDispatch"
+  },
+  {
+    "id": 37,
+    "question": "Quel hook permet d'exécuter un code avant le rendu DOM mais après le commit ?",
+    "options": [
+      "useLayoutEffect",
+      "useEffect",
+      "useInsertionEffect",
+      "componentWillMount"
+    ],
+    "answer": "useLayoutEffect"
+  },
+  {
+    "id": 38,
+    "question": "Comment profiler un composant en React ?",
+    "options": [
+      "<Profiler>",
+      "PerformanceMonitor",
+      "useProfiler",
+      "React.Profiler()"
+    ],
+    "answer": "<Profiler>"
+  },
+  {
+    "id": 39,
+    "question": "Quelle prop passe t-on à Profiler pour obtenir un callback ?",
+    "options": [
+      "onRender",
+      "onProfile",
+      "onCommit",
+      "onComplete"
+    ],
+    "answer": "onRender"
+  },
+  {
+    "id": 40,
+    "question": "Comment updater state avec l'état précédent ?",
+    "options": [
+      "setState(prev => ...)",
+      "setState(value)",
+      "updateState(prev)",
+      "usePrevState"
+    ],
+    "answer": "setState(prev => ...)"
+  },
+  {
+    "id": 41,
+    "question": "Quel hook permet de déclencher un rendu lorsque le layout change ?",
+    "options": [
+      "useLayoutEffect",
+      "useEffect",
+      "useResizeObserver",
+      "useMutationObserver"
+    ],
+    "answer": "useLayoutEffect"
+  },
+  {
+    "id": 42,
+    "question": "Quelle version majeure de React a introduit les hooks ?",
+    "options": [
+      "16.8",
+      "17.0",
+      "16.0",
+      "15.6"
+    ],
+    "answer": "16.8"
+  },
+  {
+    "id": 43,
+    "question": "Comment sauvegarder un état dans sessionStorage ?",
+    "options": [
+      "useEffect + sessionStorage.setItem",
+      "useSessionStorage",
+      "setStorage",
+      "useStorage"
+    ],
+    "answer": "useEffect + sessionStorage.setItem"
+  },
+  {
+    "id": 44,
+    "question": "Comment définir des props par défaut ?",
+    "options": [
+      "MyComp.defaultProps",
+      "interface Props",
+      "useDefaultProps",
+      "props.default"
+    ],
+    "answer": "MyComp.defaultProps"
+  },
+  {
+    "id": 45,
+    "question": "Quel outil permet de visualiser le state de Redux ?",
+    "options": [
+      "Redux DevTools",
+      "React DevTools",
+      "LogRocket",
+      "Profiler"
+    ],
+    "answer": "Redux DevTools"
+  },
+  {
+    "id": 46,
+    "question": "Comment effectuer une API call dans useEffect ?",
+    "options": [
+      "fetch ou axios dans useEffect",
+      "useFetch",
+      "componentDidMount",
+      "useApi"
+    ],
+    "answer": "fetch ou axios dans useEffect"
+  },
+  {
+    "id": 47,
+    "question": "Quel est le hook pour obtenir les dimensions d'un élément ?",
+    "options": [
+      "useRef + getBoundingClientRects",
+      "useDimensions",
+      "useSize",
+      "useLayoutEffect"
+    ],
+    "answer": "useRef + getBoundingClientRects"
+  },
+  {
+    "id": 48,
+    "question": "Comment empêcher un état de se réinitialiser après un rechargement de page ?",
+    "options": [
+      "Persist via localStorage",
+      "useSessionState",
+      "usePermanentState",
+      "useMemo"
+    ],
+    "answer": "Persist via localStorage"
+  },
+  {
+    "id": 49,
+    "question": "Quelle directive dans Vite optimise le bundle pour la production ?",
+    "options": [
+      "define: { 'process.env.NODE_ENV': 'production' }",
+      "optimizeDeps",
+      "minify",
+      "bundleAnalyzer"
+    ],
+    "answer": "minify"
+  },
+  {
+    "id": 50,
+    "question": "Comment déployer une app React sur Netlify ?",
+    "options": [
+      "Git push -> build via Netlify",
+      "npm deploy netlify",
+      "netlify start",
+      "netlify build"
+    ],
+    "answer": "Git push -> build via Netlify"
+  },
+  {
+    "id": 51,
+    "question": "Quel hook permet de gérer les formulaires ?",
+    "options": [
+      "useForm",
+      "useFormik",
+      "useState",
+      "useReducer"
+    ],
+    "answer": "useFormik"
+  },
+  {
+    "id": 52,
+    "question": "Comment créer un composant réutilisable ?",
+    "options": [
+      "En utilisant des props",
+      "En utilisant le state",
+      "En utilisant des hooks",
+      "En utilisant des contextes"
+    ],
+    "answer": "En utilisant des props"
+  },
+    {
+    "id": 51,
+    "question": "Que fait la méthode ReactDOM.createPortal ?",
+    "options": [
+      "Rendre un élément dans un autre DOM tree",
+      "Créer un nouveau composant",
+      "Initialiser un état global",
+      "Gérer les routes"
+    ],
+    "answer": "Rendre un élément dans un autre DOM tree"
+  },
+  {
+    "id": 52,
+    "question": "Quel hook permet de gérer un WebSocket dans un composant ?",
+    "options": [
+      "useEffect",
+      "useWebSocket",
+      "useSocket",
+      "useMemo"
+    ],
+    "answer": "useEffect"
+  },
+  {
+    "id": 53,
+    "question": "Comment empêcher un effet d’être exécuté à chaque rendu ?",
+    "options": [
+      "Ajouter un tableau de dépendances vide à useEffect",
+      "Utiliser useMemo",
+      "Utiliser useCallback",
+      "Retourner null"
+    ],
+    "answer": "Ajouter un tableau de dépendances vide à useEffect"
+  },
+  {
+    "id": 54,
+    "question": "Quel attribut HTML React utilise-t-il pour les classes CSS ?",
+    "options": [
+      "className",
+      "class",
+      "cssClass",
+      "styleName"
+    ],
+    "answer": "className"
+  },
+  {
+    "id": 55,
+    "question": "Quelle syntaxe permet de passer des children à un composant ?",
+    "options": [
+      "<MonComposant>Contenu</MonComposant>",
+      "children={...}",
+      "props.children = ...",
+      "<MonComposant children={...} />"
+    ],
+    "answer": "<MonComposant>Contenu</MonComposant>"
+  },
+  {
+    "id": 56,
+    "question": "Comment obtenir une ref callback ?",
+    "options": [
+      "ref={node => { this.node = node }}",
+      "createRef()",
+      "useRefCallback()",
+      "useCallback()"
+    ],
+    "answer": "ref={node => { this.node = node }}"
+  },
+  {
+    "id": 57,
+    "question": "Quel hook permet d’exécuter du code lorsque le composant se démonte ?",
+    "options": [
+      "Retourner une fonction dans useEffect",
+      "componentWillUnmount",
+      "useCleanup",
+      "useEffectCleanup"
+    ],
+    "answer": "Retourner une fonction dans useEffect"
+  },
+  {
+    "id": 58,
+    "question": "Comment afficher une liste de composants à partir d’un tableau d’objets ?",
+    "options": [
+      "tableau.map(item => <Comp key={...} {...item}/>)",
+      "forEach",
+      "filter",
+      "reduce"
+    ],
+    "answer": "tableau.map(item => <Comp key={...} {...item}/>)"
+  },
+  {
+    "id": 59,
+    "question": "Quel hook permet de forcer un re-render d’un composant ?",
+    "options": [
+      "Changer un state via useState",
+      "useForceUpdate",
+      "useRefresh",
+      "useRender"
+    ],
+    "answer": "Changer un state via useState"
+  },
+  {
+    "id": 60,
+    "question": "Quelle méthode permet de vérifier les props en runtime ?",
+    "options": [
+      "prop-types",
+      "tsconfig",
+      "eslint-plugin-react",
+      "React.PropTypes"
+    ],
+    "answer": "prop-types"
+  },
+  {
+    "id": 61,
+    "question": "Quelle est la différence entre useEffect et useLayoutEffect ?",
+    "options": [
+      "useLayoutEffect s’exécute avant le paint, useEffect après",
+      "useEffect s’exécute avant le paint, useLayoutEffect après",
+      "aucune",
+      "useLayoutEffect est déprécié"
+    ],
+    "answer": "useLayoutEffect s’exécute avant le paint, useEffect après"
+  },
+  {
+    "id": 62,
+    "question": "Comment créer un hook personnalisé ?",
+    "options": [
+      "function useMonHook() { ... }",
+      "React.createHook()",
+      "new Hook()",
+      "useHookFactory()"
+    ],
+    "answer": "function useMonHook() { ... }"
+  },
+  {
+    "id": 63,
+    "question": "Quelle fonction React appelle-t-on pour fusionner deux refs ?",
+    "options": [
+      "useImperativeHandle",
+      "useMergeRefs",
+      "createRef",
+      "forwardRef"
+    ],
+    "answer": "useImperativeHandle"
+  },
+  {
+    "id": 64,
+    "question": "Quel utilitaire React affiche un message d’erreur si une promesse dans Suspense échoue ?",
+    "options": [
+      "ErrorBoundary",
+      "SuspenseList",
+      "React.Suspense",
+      "CatchBoundary"
+    ],
+    "answer": "ErrorBoundary"
+  },
+  {
+    "id": 65,
+    "question": "Comment optimiser le style conditionnel en React ?",
+    "options": [
+      "classnames",
+      "styled-components",
+      "css-modules",
+      "inline styles"
+    ],
+    "answer": "classnames"
+  },
+  {
+    "id": 66,
+    "question": "Quel hook permet de mémoriser une valeur sans déclencher de rendu ?",
+    "options": [
+      "useRef",
+      "useState",
+      "useMemo",
+      "useCallback"
+    ],
+    "answer": "useRef"
+  },
+  {
+    "id": 67,
+    "question": "Quelle API React donne accès au scheduler de rendu ?",
+    "options": [
+      "unstable_scheduleCallback",
+      "scheduleRender",
+      "startTransition",
+      "useTransition"
+    ],
+    "answer": "unstable_scheduleCallback"
+  },
+  {
+    "id": 68,
+    "question": "Quel hook React 18 permet de marquer une mise à jour comme non urgente ?",
+    "options": [
+      "useTransition",
+      "useDeferredValue",
+      "startTransition",
+      "useEffect"
+    ],
+    "answer": "useTransition"
+  },
+  {
+    "id": 69,
+    "question": "Comment éviter des conflits de noms de classes CSS en React ?",
+    "options": [
+      "CSS Modules",
+      "Styled JSX",
+      "Inline styles",
+      "Global CSS"
+    ],
+    "answer": "CSS Modules"
+  },
+  {
+    "id": 70,
+    "question": "Quel hook permet de récupérer la largeur et hauteur d’une fenêtre ?",
+    "options": [
+      "useWindowSize",
+      "useLayoutEffect",
+      "useEffect",
+      "useDimensions"
+    ],
+    "answer": "useWindowSize"
+  },
+  {
+    "id": 71,
+    "question": "Comment étendre les props d’un composant en TS ?",
+    "options": [
+      "interface Props extends AutreProps {}",
+      "type Props = AutreProps",
+      "Props & AutreProps",
+      "class Props extends AutreProps"
+    ],
+    "answer": "interface Props extends AutreProps {}"
+  },
+  {
+    "id": 72,
+    "question": "Quel hook React Native permet de gérer l’orientation de l’écran ?",
+    "options": [
+      "useDimensions",
+      "useOrientation",
+      "useScreen",
+      "useWindowSize"
+    ],
+    "answer": "useDimensions"
+  },
+  {
+    "id": 73,
+    "question": "Quelle fonction utilitaire React Router v6 effectue un match de route ?",
+    "options": [
+      "matchRoutes",
+      "useMatch",
+      "useRouteMatch",
+      "getRoutes"
+    ],
+    "answer": "matchRoutes"
+  },
+  {
+    "id": 74,
+    "question": "Comment créer un callback qui reste stable ?",
+    "options": [
+      "useCallback",
+      "useMemo",
+      "useRef",
+      "useEffect"
+    ],
+    "answer": "useCallback"
+  },
+  {
+    "id": 75,
+    "question": "Quel hook permet de différer la valeur d’un state jusqu’à la fin d’un rendu urgent ?",
+    "options": [
+      "useDeferredValue",
+      "useTransition",
+      "useLayoutEffect",
+      "useEffect"
+    ],
+    "answer": "useDeferredValue"
+  },
+  {
+    "id": 76,
+    "question": "Quelle API React offre un mécanisme de suspense pour les données ?",
+    "options": [
+      "React.Suspense",
+      "SuspenseList",
+      "lazy",
+      "useTransition"
+    ],
+    "answer": "React.Suspense"
+  },
+  {
+    "id": 77,
+    "question": "Quel hook React sert à accéder au DOM lorsque le composant est monté ?",
+    "options": [
+      "useLayoutEffect",
+      "useEffect",
+      "useRef",
+      "useCallback"
+    ],
+    "answer": "useLayoutEffect"
+  },
+  {
+    "id": 78,
+    "question": "Quelle librairie permet de gérer la data-fetching avec Suspense ?",
+    "options": [
+      "react-query",
+      "axios",
+      "fetch",
+      "swr"
+    ],
+    "answer": "react-query"
+  },
+  {
+    "id": 79,
+    "question": "Comment annuler un abonnement dans useEffect ?",
+    "options": [
+      "Retourner une fonction de cleanup",
+      "removeListener dans le hook",
+      "useAbortController",
+      "stopEffect"
+    ],
+    "answer": "Retourner une fonction de cleanup"
+  },
+  {
+    "id": 80,
+    "question": "Quel hook React donne accès à la valeur d’un contexte sans re-render si non utilisé ?",
+    "options": [
+      "useContextSelector",
+      "useContext",
+      "useSelector",
+      "useContextLite"
+    ],
+    "answer": "useContextSelector"
+  },
+  {
+    "id": 81,
+    "question": "Comment intégrer un thème global en React ?",
+    "options": [
+      "Context + useContext",
+      "prop drilling",
+      "localStorage",
+      "EventEmitter"
+    ],
+    "answer": "Context + useContext"
+  },
+  {
+    "id": 82,
+    "question": "Quel hook React Native s’utilise pour les animations de layout ?",
+    "options": [
+      "useAnimatedStyle",
+      "useLayoutEffect",
+      "useEffect",
+      "useRef"
+    ],
+    "answer": "useAnimatedStyle"
+  },
+  {
+    "id": 83,
+    "question": "Quelle option Vite permet d’aliaser un répertoire ?",
+    "options": [
+      "resolve.alias",
+      "aliasDirs",
+      "paths",
+      "root"
+    ],
+    "answer": "resolve.alias"
+  },
+  {
+    "id": 84,
+    "question": "Quel hook permet de gérer plusieurs champs de formulaire facilement ?",
+    "options": [
+      "useReducer",
+      "useForm",
+      "useState",
+      "useMultiple"
+    ],
+    "answer": "useReducer"
+  },
+  {
+    "id": 85,
+    "question": "Comment partager du code entre React Web et React Native ?",
+    "options": [
+      "Mono repo + paquets partagés",
+      "duplication de code",
+      "iframe",
+      "fetch"
+    ],
+    "answer": "Mono repo + paquets partagés"
+  },
+  {
+    "id": 86,
+    "question": "Quel hook de performance React 18 permet de suivre la priorisation ?",
+    "options": [
+      "useTransition",
+      "useEffect",
+      "useLayoutEffect",
+      "useIdleTimer"
+    ],
+    "answer": "useTransition"
+  },
+  {
+    "id": 87,
+    "question": "Quel hook vous permet de suspendre un rendu si une donnée n’est pas prête ?",
+    "options": [
+      "useDeferredValue",
+      "useTransition",
+      "useEffect",
+      "useMemo"
+    ],
+    "answer": "useDeferredValue"
+  },
+  {
+    "id": 88,
+    "question": "Quelle méthode React Router redirige automatiquement une route ?",
+    "options": [
+      "Navigate",
+      "Redirect",
+      "useNavigate",
+      "Link"
+    ],
+    "answer": "Navigate"
+  },
+  {
+    "id": 89,
+    "question": "Quel hook React récupère un fragment de state sans provoquer de re-render complet ?",
+    "options": [
+      "useSyncExternalStore",  
+      "useSelector",
+      "useContextSelector",
+      "useState"
+    ],
+    "answer": "useSyncExternalStore"
+  },
+  {
+    "id": 90,
+    "question": "Comment déployer une app React sur Docker ?",
+    "options": [
+      "Construire l’image puis docker run",
+      "npm deploy docker",
+      "docker init",
+      "docker start"
+    ],
+    "answer": "Construire l’image puis docker run"
+  },
+  {
+    "id": 91,
+    "question": "Quel hook permet de lire un flux audio/vidéo dans le navigateur ?",
+    "options": [
+      "useRef + HTMLMediaElement",
+      "useMedia",
+      "useAudio",
+      "useVideo"
+    ],
+    "answer": "useRef + HTMLMediaElement"
+  },
+  {
+    "id": 92,
+    "question": "Comment gérer la navigation conditionnelle après login ?",
+    "options": [
+      "useEffect + navigate",
+      "Redirect component",
+      "privateRoute HOC",
+      "useContext"
+    ],
+    "answer": "useEffect + navigate"
+  },
+  {
+    "id": 93,
+    "question": "Quelle option configure le port de dev dans Vite ?",
+    "options": [
+      "server.port",
+      "dev.port",
+      "port",
+      "listen"
+    ],
+    "answer": "server.port"
+  },
+  {
+    "id": 94,
+    "question": "Quel hook React gère un timer facilement ?",
+    "options": [
+      "useInterval",
+      "useEffect",
+      "setTimeout",
+      "useTimeout"
+    ],
+    "answer": "useInterval"
+  },
+  {
+    "id": 95,
+    "question": "Comment ajouter un favicon dans une app Vite ?",
+    "options": [
+      "Placer le fichier dans public/",
+      "import dans App.tsx",
+      "npm install vite-favicon",
+      "config dans tsconfig"
+    ],
+    "answer": "Placer le fichier dans public/"
+  },
+  {
+    "id": 96,
+    "question": "Quel hook permet d’avoir un état asynchrone ?",
+    "options": [
+      "useState avec async/await dans useEffect",
+      "useAsyncState",
+      "usePromise",
+      "useAsync"
+    ],
+    "answer": "useState avec async/await dans useEffect"
+  },
+  {
+    "id": 97,
+    "question": "Comment charger dynamiquement un composant avec Suspense ?",
+    "options": [
+      "const X = React.lazy(() => import('./X'))",
+      "dynamic import",
+      "loadable()",
+      "importComponent()"
+    ],
+    "answer": "const X = React.lazy(() => import('./X'))"
+  },
+  {
+    "id": 98,
+    "question": "Quel hook React teste si un composant est monté ?",
+    "options": [
+      "useIsMounted",
+      "useEffect",
+      "useLayoutEffect",
+      "useRef"
+    ],
+    "answer": "useIsMounted"
+  },
+  {
+    "id": 99,
+    "question": "Comment partager un hook entre plusieurs projets ?",
+    "options": [
+      "Publier sur npm",
+      "Copier coller le fichier",
+      "Monorepo only",
+      "Gist"
+    ],
+    "answer": "Publier sur npm"
+  },
+  {
+    "id": 100,
+    "question": "Quel hook React permet d’accéder au scheduler de priorité basse ?",
+    "options": [
+      "useIdleCallback",
+      "useEffect",
+      "useLayoutEffect",
+      "useTransition"
+    ],
+    "answer": "useIdleCallback"
+  },
+  {
+    "id": 101,
+    "question": "Quelle méthode React permet de mettre à jour l'état local d'un composant classe ?",
+    "options": ["this.setState()", "this.updateState()", "React.setState()", "setState()"],
+    "answer": "this.setState()"
+  },
+  {
+    "id": 102,
+    "question": "Quel hook React permet d'exécuter du code uniquement une fois au montage ?",
+    "options": ["useEffect(() => {}, [])", "useLayoutEffect(() => {})", "useMemo(() => {})", "useCallback(() => {})"],
+    "answer": "useEffect(() => {}, [])"
+  },
+  {
+    "id": 103,
+    "question": "Comment accéder au contexte via useContext ?",
+    "options": ["const value = useContext(MyContext)", "const value = MyContext.use()", "const value = use(MyContext)", "const value = MyContext()"],
+    "answer": "const value = useContext(MyContext)"
+  },
+  {
+    "id": 104,
+    "question": "Quel hook React fournit une fonction de rafraîchissement différée ?",
+    "options": ["useDeferredValue", "useTransition", "useCallback", "useMemo"],
+    "answer": "useDeferredValue"
+  },
+  {
+    "id": 105,
+    "question": "Quelle API React Native permet de gérer les dimensions de l'écran ?",
+    "options": ["Dimensions API", "Screen API", "Window API", "Layout API"],
+    "answer": "Dimensions API"
+  },
+  {
+    "id": 106,
+    "question": "Quel hook permet de répondre à des changements de taille de fenêtre ?",
+    "options": ["useEffect + window.addEventListener", "useResizeObserver", "useWindowSize", "useLayoutEffect"],
+    "answer": "useWindowSize"
+  },
+  {
+    "id": 107,
+    "question": "Comment créer un composant React qui accepte un ref ?",
+    "options": ["forwardRef", "useRef", "createRef", "RefComponent"],
+    "answer": "forwardRef"
+  },
+  {
+    "id": 108,
+    "question": "Quel composant React Router encapsule l'application pour activer les routes ?",
+    "options": ["BrowserRouter", "HashRouter", "Router", "Switch"],
+    "answer": "BrowserRouter"
+  },
+  {
+    "id": 109,
+    "question": "Quel hook React permet de créer un reducer local ?",
+    "options": ["useReducer", "useState", "useContext", "useCallback"],
+    "answer": "useReducer"
+  },
+  {
+    "id": 110,
+    "question": "Quelle propriété React diffère l'exécution d'un effet jusqu'après le render ?",
+    "options": ["useEffect", "useLayoutEffect", "useInsertionEffect", "useRenderEffect"],
+    "answer": "useEffect"
+  },
+  {
+    "id": 111,
+    "question": "Quel hook React 18 permet de basculer un affichage en mode pause ?",
+    "options": ["useTransition", "useDeferredValue", "useEffect", "useLayoutEffect"],
+    "answer": "useTransition"
+  },
+  {
+    "id": 112,
+    "question": "Comment hydrater une application React côté client après SSR ?",
+    "options": ["hydrateRoot", "renderRoot", "hydrate", "render"],
+    "answer": "hydrateRoot"
+  },
+  {
+    "id": 113,
+    "question": "Quel flag React 18 active les fonctionnalités concurrentes expérimentales ?",
+    "options": ["concurrentFeatures", "enableConcurrent", "useConcurrent", "unstable_concurrentFeatures"],
+    "answer": "unstable_concurrentFeatures"
+  },
+  {
+    "id": 114,
+    "question": "Quelle fonction React permet de créer un élément React ?",
+    "options": ["React.createElement", "React.newElement", "createElement", "create"],
+    "answer": "React.createElement"
+  },
+  {
+    "id": 115,
+    "question": "Quelle méthode React classe est appelée juste avant le démontage ?",
+    "options": ["componentWillUnmount", "componentDidUnmount", "componentWillMount", "componentDidMount"],
+    "answer": "componentWillUnmount"
+  },
+  {
+    "id": 116,
+    "question": "Quel hook React vous permet de sauvegarder une valeur mutée sans rerender ?",
+    "options": ["useRef", "useState", "useReducer", "useMemo"],
+    "answer": "useRef"
+  },
+  {
+    "id": 117,
+    "question": "Comment éviter de recréer une fonction à chaque render ?",
+    "options": ["useCallback", "useMemo", "useRef", "useEffect"],
+    "answer": "useCallback"
+  },
+  {
+    "id": 118,
+    "question": "Quel hook React permet de mémoriser la valeur de retour d'une fonction ?",
+    "options": ["useMemo", "useCallback", "useState", "useEffect"],
+    "answer": "useMemo"
+  },
+  {
+    "id": 119,
+    "question": "Quel hook React vous permet d'écouter le scroll sans fuite de mémoire ?",
+    "options": ["useEffect avec cleanup", "useScroll", "useLayoutEffect", "useEventListener"],
+    "answer": "useEffect avec cleanup"
+  },
+  {
+    "id": 120,
+    "question": "Quel hook React Native sert à gérer l'état d'un composant ?",
+    "options": ["useState", "useEffect", "useContext", "useRef"],
+    "answer": "useState"
+  },
+  {
+    "id": 121,
+    "question": "Comment partager un état global sans Redux ?",
+    "options": ["Context + useReducer", "mobx", "localStorage", "event emitter"],
+    "answer": "Context + useReducer"
+  },
+  {
+    "id": 122,
+    "question": "Quel hook React permet de déclencher un effet avant le paint ?",
+    "options": ["useLayoutEffect", "useEffect", "useInsertionEffect", "useRenderEffect"],
+    "answer": "useLayoutEffect"
+  },
+  {
+    "id": 123,
+    "question": "Quelle API React Router remplace <Switch> en v6 ?",
+    "options": ["Routes", "Switch", "Router", "Outlet"],
+    "answer": "Routes"
+  },
+  {
+    "id": 124,
+    "question": "Quel composant React Router affiche l'enfant de la route courante ?",
+    "options": ["Outlet", "Route", "Switch", "Render"],
+    "answer": "Outlet"
+  },
+  {
+    "id": 125,
+    "question": "Comment passer un state via Link en React Router ?",
+    "options": ["<Link to='/path' state={{...}}>", "<Link state=''>", "useNavigate(state)", "navigate(state)"],
+    "answer": "<Link to='/path' state={{...}}>"
+  },
+  {
+    "id": 126,
+    "question": "Quel hook React fournit une transition différée ?",
+    "options": ["useTransition", "useDeferredValue", "useEffect", "useLayoutEffect"],
+    "answer": "useTransition"
+  },
+  {
+    "id": 127,
+    "question": "Quelle propriété React définit un identifiant unique pour une liste ?",
+    "options": ["key", "id", "unique", "index"],
+    "answer": "key"
+  },
+  {
+    "id": 128,
+    "question": "Quel hook React renvoie l'état et dispatch pour un reducer ?",
+    "options": ["useReducer", "useState", "useContext", "useCallback"],
+    "answer": "useReducer"
+  },
+  {
+    "id": 129,
+    "question": "Comment éviter le rendu inutile d'un composant enfant ?",
+    "options": ["React.memo", "useMemo", "useCallback", "PureComponent"],
+    "answer": "React.memo"
+  },
+  {
+    "id": 130,
+    "question": "Quel hook React détermine si un rendu est urgent ?",
+    "options": ["useTransition", "useDeferredValue", "useEffect", "useLayoutEffect"],
+    "answer": "useTransition"
+  },
+  {
+    "id": 131,
+    "question": "Quelle API React offre un fallback pendant le lazy-loading ?",
+    "options": ["Suspense", "ErrorBoundary", "ConcurrentMode", "Profiler"],
+    "answer": "Suspense"
+  },
+  {
+    "id": 132,
+    "question": "Comment mesurer la performance d'un composant React ?",
+    "options": ["Profiler", "PerformanceMonitor", "useProfiler", "console.time"],
+    "answer": "Profiler"
+  },
+  {
+    "id": 133,
+    "question": "Quel hook React sert à mémoriser une fonction asynchrone ?",
+    "options": ["useCallback", "useEffect", "useMemo", "useRef"],
+    "answer": "useCallback"
+  },
+  {
+    "id": 134,
+    "question": "Quel hook React renvoie un objet prêt à être stocké dans sessionStorage ?",
+    "options": ["useEffect + sessionStorage", "useSessionStorage", "useStorage", "usePersistedState"],
+    "answer": "useSessionStorage"
+  },
+  {
+    "id": 135,
+    "question": "Quel hook React vous permet de lire un contexte sans rendre à chaque changement global ?",
+    "options": ["useContextSelector", "useContext", "useSelector", "useRef"],
+    "answer": "useContextSelector"
+  },
+  {
+    "id": 136,
+    "question": "Comment installer React Query pour la data fetching ?",
+    "options": ["npm install react-query", "npm install query", "npm install axios", "npm install swr"],
+    "answer": "npm install react-query"
+  },
+  {
+    "id": 137,
+    "question": "Quelle méthode React Query utilise pour mettre en cache les requêtes ?",
+    "options": ["QueryClient", "CacheManager", "useCache", "useQueryCache"],
+    "answer": "QueryClient"
+  },
+  {
+    "id": 138,
+    "question": "Quel hook React Query récupère des données ?",
+    "options": ["useQuery", "useFetch", "useData", "useAxios"],
+    "answer": "useQuery"
+  },
+  {
+    "id": 139,
+    "question": "Quel hook React Query déclenche une mutation ?",
+    "options": ["useMutation", "useUpdate", "usePost", "useSave"],
+    "answer": "useMutation"
+  },
+  {
+    "id": 140,
+    "question": "Quelle méthode React Query invalide le cache ?",
+    "options": ["queryClient.invalidateQueries()", "queryClient.clear()", "queryClient.reset()", "queryClient.remove()"],
+    "answer": "queryClient.invalidateQueries()"
+  },
+  {
+    "id": 141,
+    "question": "Quel hook React Router permet de récupérer l'état de navigation ?",
+    "options": ["useNavigationType", "useNavigate", "useLocation", "useParams"],
+    "answer": "useNavigationType"
+  },
+  {
+    "id": 142,
+    "question": "Quelle méthode Vite optimise les dépendances au build ?",
+    "options": ["optimizeDeps", "minify", "bundle", "chunk"],
+    "answer": "optimizeDeps"
+  },
+  {
+    "id": 143,
+    "question": "Quel outil permet de créer un component library React ?",
+    "options": ["Storybook", "Styleguidist", "Docz", "Bit"], 
+    "answer": "Storybook"
+  },
+  {
+    "id": 144,
+    "question": "Quel hook React permet de gérer un formulaire contrôlé facilement ?",
+    "options": ["useForm (react-hook-form)", "useForm", "useReducer", "useState"],
+    "answer": "useForm (react-hook-form)"
+  },
+  {
+    "id": 145,
+    "question": "Comment activer le mode strict de React ?",
+    "options": ["<React.StrictMode>", "<StrictMode>", "useStrictMode", "useEffect"], 
+    "answer": "<React.StrictMode>"
+  },
+  {
+    "id": 146,
+    "question": "Quelle option de TypeScript aide à importer du JSON ?",
+    "options": ["resolveJsonModule", "allowJsonImport", "importJson", "enableJson"], 
+    "answer": "resolveJsonModule"
+  },
+  {
+    "id": 147,
+    "question": "Quel hook React SuspenseList organise le rendu de plusieurs Suspense ?",
+    "options": ["SuspenseList", "SuspenseGroup", "SuspenseBoundary", "ConcurrentList"], 
+    "answer": "SuspenseList"
+  },
+  {
+    "id": 148,
+    "question": "Quelle directive CSS-in-JS populaire s’intègre bien avec React ?",
+    "options": ["styled-components", "emotion", "goober", "linaria"], 
+    "answer": "styled-components"
+  },
+  {
+    "id": 149,
+    "question": "Quel hook React fournit un état de chargement pour useQuery ?",
+    "options": ["isLoading", "loading", "pending", "isFetching"], 
+    "answer": "isLoading"
+  },
+  {
+    "id": 150,
+    "question": "Quelle API React permet de mesurer la taille d'un composant ?",
+    "options": ["ResizeObserver", "IntersectionObserver", "getBoundingClientRect", "PerformanceObserver"], 
+    "answer": "getBoundingClientRect"
+  },
+  {
+    "id": 151,
+    "question": "Quel hook React rend un label accessible pour un input ?",
+    "options": ["useId", "useLabel", "useA11y", "useAccessible"], 
+    "answer": "useId"
+  },
+  {
+    "id": 152,
+    "question": "Quelle propriété React CSS prend un objet JS ?",
+    "options": ["style", "className", "css", "styles"], 
+    "answer": "style"
+  },
+  {
+    "id": 153,
+    "question": "Comment passer une ref à un composant enfant ?",
+    "options": ["forwardRef", "refProp", "useRef", "passRef"], 
+    "answer": "forwardRef"
+  },
+  {
+    "id": 154,
+    "question": "Quel hook React permet d’observer la visibilité d’un élément ?",
+    "options": ["useIntersectionObserver", "useVisibility", "useEffect", "useRef"], 
+    "answer": "useIntersectionObserver"
+  },
+  {
+    "id": 155,
+    "question": "Quelle méthode React.gère les erreurs levées dans le render ?",
+    "options": ["ErrorBoundary", "CatchBoundary", "componentDidCatch", "UseError"], 
+    "answer": "componentDidCatch"
+  },
+  {
+    "id": 156,
+    "question": "Quelle librairie conseille React pour gérer le CSS ?",
+    "options": ["css-modules", "styled-components", "jss", "aphrodite"],
+    "answer": "css-modules"
+  },
+  {
+    "id": 157,
+    "question": "Quel hook permet d’attacher un ref à plusieurs éléments ?",
+    "options": ["useImperativeHandle", "useMergeRefs", "forwardRef", "useMultipleRefs"],
+    "answer": "useMergeRefs"
+  },
+  {
+    "id": 158,
+    "question": "Quelle API React utilise le Fiber reconciler ?",
+    "options": ["Concurrent Mode", "Strict Mode", "Profiler", "Hook API"],
+    "answer": "Concurrent Mode"
+  },
+  {
+    "id": 159,
+    "question": "Quel flag Vite permet de générer un sourcemap dans prod ?",
+    "options": ["build.sourcemap", "sourcemap", "map", "devtools"],
+    "answer": "build.sourcemap"
+  },
+  {
+    "id": 160,
+    "question": "Quel hook React vous permet de mémoriser une callback et ses dépendances ?",
+    "options": ["useCallback", "useMemo", "useEffect", "useState"],
+    "answer": "useCallback"
+  },
+  {
+    "id": 161,
+    "question": "Quel hook React utilise un AbortController pour fetch ?",
+    "options": ["useEffect cleanup", "useAbortableFetch", "useFetch", "useAsync"],
+    "answer": "useEffect cleanup"
+  },
+  {
+    "id": 162,
+    "question": "Quel hook React gère un état complexe sans Redux ?",
+    "options": ["useReducer", "useState", "useContext", "useRef"],
+    "answer": "useReducer"
+  },
+  {
+    "id": 163,
+    "question": "Quelle propriété React Router v6 permet de charger des données ?",
+    "options": ["loader", "fetcher", "data", "useLoader"],
+    "answer": "loader"
+  },
+  {
+    "id": 164,
+    "question": "Quel hook React Router fournit la navigation programmée ?",
+    "options": ["useNavigate", "useHistory", "useRouter", "useNav"],
+    "answer": "useNavigate"
+  },
+  {
+    "id": 165,
+    "question": "Comment éviter le re-render d’un composant React.memo ?",
+    "options": ["Passer les mêmes props", "Changer une prop", "Utiliser useState", "Utiliser useRef"],
+    "answer": "Passer les mêmes props"
+  },
+  {
+    "id": 166,
+    "question": "Quel hook React donne accès à la priorité de mise à jour ?",
+    "options": ["useTransition", "useEffect", "useLayoutEffect", "useDeferredValue"],
+    "answer": "useTransition"
+  },
+  {
+    "id": 167,
+    "question": "Quelle fonction React Router v6 redirige dans un loader ?",
+    "options": ["redirect()", "navigate()", "useNavigate()", "Link to"],
+    "answer": "redirect()"
+  },
+  {
+    "id": 168,
+    "question": "Quel hook React gère la valeur d’un input contrôlé ?",
+    "options": ["useState", "useRef", "useEffect", "useReducer"],
+    "answer": "useState"
+  },
+  {
+    "id": 169,
+    "question": "Quel hook React Native gère les gestes tactiles ?",
+    "options": ["usePanResponder", "useTouch", "useGesture", "useSwipe"],
+    "answer": "usePanResponder"
+  },
+  {
+    "id": 170,
+    "question": "Quel hook React gère un state asynchrone avec suspense ?",
+    "options": ["useTransition", "useEffect", "useAsync", "useDeferredValue"],
+    "answer": "useTransition"
+  },
+  {
+    "id": 171,
+    "question": "Quelle prop React Router v6 permet de rendre une erreur ?",
+    "options": ["errorElement", "errorComponent", "onError", "catchElement"],
+    "answer": "errorElement"
+  },
+  {
+    "id": 172,
+    "question": "Quel hook React permet d’avoir un callback stable ?",
+    "options": ["useCallback", "useMemo", "useRef", "useEffect"],
+    "answer": "useCallback"
+  },
+  {
+    "id": 173,
+    "question": "Quelle fonction React Router charge les données avant rendu ?",
+    "options": ["useLoaderData", "useRouteData", "useData", "useFetch"],  
+    "answer": "useLoaderData"
+  },
+  {
+    "id": 174,
+    "question": "Quel hook React native gère l’accessibilité voix ?",
+    "options": ["useAccessibilityInfo", "useScreenReader", "useAccessible", "useVoiceOver"],
+    "answer": "useAccessibilityInfo"
+  },
+  {
+    "id": 175,
+    "question": "Quelle API React gère l’hydratation d’un composant SSR ?",
+    "options": ["hydrateRoot", "render", "hydrate", "renderRoot"],
+    "answer": "hydrateRoot"
+  },
+  {
+    "id": 176,
+    "question": "Quel hook React vous permet de suivre si le composant est monté ?",
+    "options": ["useIsMounted", "useEffect", "useRef", "useCallback"],
+    "answer": "useIsMounted"
+  },
+  {
+    "id": 177,
+    "question": "Quelle méthode React Router v6 gère la pagination ?",
+    "options": ["createBrowserRouter", "createHashRouter", "createMemoryRouter", "createRoutes"],
+    "answer": "createBrowserRouter"
+  },
+  {
+    "id": 178,
+    "question": "Quel hook React déclenche un focus sur un élément ?",
+    "options": ["useEffect + ref.current.focus()", "useFocus", "useRef", "useCallback"],
+    "answer": "useEffect + ref.current.focus()"
+  },
+  {
+    "id": 179,
+    "question": "Quelle extension de navigateur sert pour React DevTools ?",
+    "options": ["React Developer Tools", "Redux DevTools", "Vue DevTools", "Angular DevTools"],
+    "answer": "React Developer Tools"
+  },
+  {
+    "id": 180,
+    "question": "Quel hook React Native affiche une alerte native ?",
+    "options": ["Alert.alert()", "useAlert", "Alert.show()", "useEffect"],
+    "answer": "Alert.alert()"
+  },
+  {
+    "id": 181,
+    "question": "Quel hook React rend un composant visible après un délai ?",  
+    "options": ["useEffect + setTimeout", "useTimeout", "useLazy", "useDeferredValue"],  
+    "answer": "useEffect + setTimeout"  
+  },  
+  {  
+    "id": 182,  
+    "question": "Quelle fonction React Router v6 gère le rechargement de page ?",  
+    "options": ["RouterProvider", "Navigate", "Link", "Outlet"],  
+    "answer": "RouterProvider"  
+  },  
+  {  
+    "id": 183,  
+    "question": "Quel hook React fournit un état prêt à être persistant ?",  
+    "options": ["useLocalStorage", "useState", "useSessionStorage", "usePersistentState"],  
+    "answer": "useLocalStorage"  
+  },  
+  {  
+    "id": 184,  
+    "question": "Quelle commande installe Vite globalement ?",  
+    "options": ["npm install -g create-vite", "npm install -g vite", "npm install vite", "npm install create-vite"],  
+    "answer": "npm install -g create-vite"  
+  },  
+  {  
+    "id": 185,  
+    "question": "Quel hook React permet de gérer un focus programmatique ?",  
+    "options": ["useRef + useEffect", "useFocus", "useCallback", "useLayoutEffect"],  
+    "answer": "useRef + useEffect"  
+  },  
+  {  
+    "id": 186,  
+    "question": "Quelle méthode React Query met à jour la donnée en cache ?",  
+    "options": ["queryClient.setQueryData()", "queryClient.invalidateQueries()", "useMutation()", "useQueryClient()"],  
+    "answer": "queryClient.setQueryData()"  
+  },  
+  {  
+    "id": 187,  
+    "question": "Quel hook React Router v6 permet de charger un composant avec suspense ?",  
+    "options": ["lazy", "Suspense", "Await", "fallback"],  
+    "answer": "lazy"  
+  },  
+  {  
+    "id": 188,  
+    "question": "Quel hook React permet de différer une valeur de state pour une UI non urgente ?",  
+    "options": ["useDeferredValue", "useTransition", "useMemo", "useEffect"],  
+    "answer": "useDeferredValue"  
+  },  
+  {  
+    "id": 189,  
+    "question": "Quelle clé HTTP React Query utilise pour cache une requête ?",  
+    "options": ["queryKey", "cacheKey", "key", "url"],  
+    "answer": "queryKey"  
+  },  
+  {  
+    "id": 190,  
+    "question": "Quel hook React fournit une méthode imperméative sur le ref exposé ?",  
+    "options": ["useImperativeHandle", "useRef", "forwardRef", "useCallback"],  
+    "answer": "useImperativeHandle"  
+  },  
+  {  
+    "id": 191,  
+    "question": "Quel hook React optimiser le recalcul d’un objet complexe ?",  
+    "options": ["useMemo", "useCallback", "useEffect", "useState"],  
+    "answer": "useMemo"  
+  },  
+  {  
+    "id": 192,  
+    "question": "Quelle API React Router v6 gère les redirections globales ?",  
+    "options": ["createBrowserRouter", "redirect", "Navigate", "RouterProvider"],  
+    "answer": "redirect"  
+  },  
+  {  
+    "id": 193,  
+    "question": "Quel hook React vous aide à éviter les effets concurrents ?",  
+    "options": ["useInsertionEffect", "useEffect", "useLayoutEffect", "useCallback"],  
+    "answer": "useInsertionEffect"  
+  },  
+  {  
+    "id": 194,  
+    "question": "Quelle version de React a introduit Suspense pour les données ?",  
+    "options": ["18", "17", "16.8", "16"],  
+    "answer": "18"  
+  },  
+  {  
+    "id": 195,  
+    "question": "Quel hook React Router v6 récupère les données d’un loader ?",  
+    "options": ["useLoaderData", "useData", "useRouteData", "useParams"],  
+    "answer": "useLoaderData"  
+  },  
+  {  
+    "id": 196,  
+    "question": "Quel hook React gère un callback qui persiste entre renders ?",  
+    "options": ["useCallback", "useRef", "useMemo", "useEffect"],  
+    "answer": "useCallback"  
+  },  
+  {  
+    "id": 197,  
+    "question": "Quel hook React retourne l’état du rafraîchissement de transition ?",  
+    "options": ["isPending", "isLoading", "isFetching", "isTransitioning"],  
+    "answer": "isPending"  
+  },  
+  {  
+    "id": 198,  
+    "question": "Quel hook React permet d’ailleurs un rendu sans blocage UI ?",  
+    "options": ["startTransition", "useTransition", "useDeferredValue", "useEffect"],  
+    "answer": "startTransition"  
+  },  
+  {  
+    "id": 199,  
+    "question": "Quel hook React Router v6 permet d’attendre une navigation ?",  
+    "options": ["useNavigation", "useNavigate", "useLocation", "useParams"],  
+    "answer": "useNavigation"  
+  },  
+  {  
+    "id": 200,  
+    "question": "Quel hook React renvoie la priorité de mise à jour actuelle ?",  
+    "options": ["usePriority", "useTransition", "useEffect", "useDeferredValue"],  
+    "answer": "useTransition"  
+  }  
+]
+
+

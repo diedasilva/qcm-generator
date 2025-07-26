@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est une caractéristique clé de classes et objets en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de classes et objets en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes et objets en Java"
+  },
+  {
+    "id": 2,
+    "question": "Quelle est une caractéristique clé de héritage en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de héritage en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de héritage en Java"
+  },
+  {
+    "id": 3,
+    "question": "Quelle est une caractéristique clé de interfaces en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de interfaces en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de interfaces en Java"
+  },
+  {
+    "id": 4,
+    "question": "Quelle est une caractéristique clé de classes abstraites en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de classes abstraites en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes abstraites en Java"
+  },
+  {
+    "id": 5,
+    "question": "Quelle est une caractéristique clé de encapsulation en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de encapsulation en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de encapsulation en Java"
+  },
+  {
+    "id": 6,
+    "question": "Quelle est une caractéristique clé de polymorphisme en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de polymorphisme en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de polymorphisme en Java"
+  },
+  {
+    "id": 7,
+    "question": "Quelle est une caractéristique clé de génériques en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de génériques en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de génériques en Java"
+  },
+  {
+    "id": 8,
+    "question": "Quelle est une caractéristique clé de framework de collections en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de framework de collections en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de framework de collections en Java"
+  },
+  {
+    "id": 9,
+    "question": "Quelle est une caractéristique clé de gestion des exceptions en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de gestion des exceptions en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion des exceptions en Java"
+  },
+  {
+    "id": 10,
+    "question": "Quelle est une caractéristique clé de multithreading en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de multithreading en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de multithreading en Java"
+  },
+  {
+    "id": 11,
+    "question": "Quelle est une caractéristique clé de synchronisation en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de synchronisation en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de synchronisation en Java"
+  },
+  {
+    "id": 12,
+    "question": "Quelle est une caractéristique clé de expressions lambda en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de expressions lambda en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions lambda en Java"
+  },
+  {
+    "id": 13,
+    "question": "Quelle est une caractéristique clé de API Streams en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de API Streams en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de API Streams en Java"
+  },
+  {
+    "id": 14,
+    "question": "Quelle est une caractéristique clé de entrée/sortie de fichiers en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java"
+  },
+  {
+    "id": 15,
+    "question": "Quelle est une caractéristique clé de package NIO en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de package NIO en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de package NIO en Java"
+  },
+  {
+    "id": 16,
+    "question": "Quelle est une caractéristique clé de gestion de mémoire de la JVM en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java"
+  },
+  {
+    "id": 17,
+    "question": "Quelle est une caractéristique clé de collecte des ordures en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de collecte des ordures en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de collecte des ordures en Java"
+  },
+  {
+    "id": 18,
+    "question": "Quelle est une caractéristique clé de annotations en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de annotations en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de annotations en Java"
+  },
+  {
+    "id": 19,
+    "question": "Quelle est une caractéristique clé de réflexion en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de réflexion en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réflexion en Java"
+  },
+  {
+    "id": 20,
+    "question": "Quelle est une caractéristique clé de sérialisation en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de sérialisation en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de sérialisation en Java"
+  },
+  {
+    "id": 21,
+    "question": "Quelle est une caractéristique clé de JDBC en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de JDBC en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JDBC en Java"
+  },
+  {
+    "id": 22,
+    "question": "Quelle est une caractéristique clé de servlets en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de servlets en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de servlets en Java"
+  },
+  {
+    "id": 23,
+    "question": "Quelle est une caractéristique clé de JSP en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de JSP en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JSP en Java"
+  },
+  {
+    "id": 24,
+    "question": "Quelle est une caractéristique clé de JavaFX en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de JavaFX en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JavaFX en Java"
+  },
+  {
+    "id": 25,
+    "question": "Quelle est une caractéristique clé de Swing en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de Swing en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de Swing en Java"
+  },
+  {
+    "id": 26,
+    "question": "Quelle est une caractéristique clé de réseau (API Socket) en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de réseau (API Socket) en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réseau (API Socket) en Java"
+  },
+  {
+    "id": 27,
+    "question": "Quelle est une caractéristique clé de expressions régulières en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de expressions régulières en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions régulières en Java"
+  },
+  {
+    "id": 28,
+    "question": "Quelle est une caractéristique clé de classe Optional en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de classe Optional en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classe Optional en Java"
+  },
+  {
+    "id": 29,
+    "question": "Quelle est une caractéristique clé de utilities de concurrence en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de utilities de concurrence en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de utilities de concurrence en Java"
+  },
+  {
+    "id": 30,
+    "question": "Quelle est une caractéristique clé de classes atomiques en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de classes atomiques en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes atomiques en Java"
+  },
+  {
+    "id": 31,
+    "question": "Quelle est une caractéristique clé de classes et objets en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de classes et objets en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes et objets en Java"
+  },
+  {
+    "id": 32,
+    "question": "Quelle est une caractéristique clé de héritage en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de héritage en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de héritage en Java"
+  },
+  {
+    "id": 33,
+    "question": "Quelle est une caractéristique clé de interfaces en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de interfaces en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de interfaces en Java"
+  },
+  {
+    "id": 34,
+    "question": "Quelle est une caractéristique clé de classes abstraites en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de classes abstraites en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes abstraites en Java"
+  },
+  {
+    "id": 35,
+    "question": "Quelle est une caractéristique clé de encapsulation en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de encapsulation en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de encapsulation en Java"
+  },
+  {
+    "id": 36,
+    "question": "Quelle est une caractéristique clé de polymorphisme en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de polymorphisme en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de polymorphisme en Java"
+  },
+  {
+    "id": 37,
+    "question": "Quelle est une caractéristique clé de génériques en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de génériques en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de génériques en Java"
+  },
+  {
+    "id": 38,
+    "question": "Quelle est une caractéristique clé de framework de collections en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de framework de collections en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de framework de collections en Java"
+  },
+  {
+    "id": 39,
+    "question": "Quelle est une caractéristique clé de gestion des exceptions en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de gestion des exceptions en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion des exceptions en Java"
+  },
+  {
+    "id": 40,
+    "question": "Quelle est une caractéristique clé de multithreading en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de multithreading en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de multithreading en Java"
+  },
+  {
+    "id": 41,
+    "question": "Quelle est une caractéristique clé de synchronisation en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de synchronisation en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de synchronisation en Java"
+  },
+  {
+    "id": 42,
+    "question": "Quelle est une caractéristique clé de expressions lambda en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de expressions lambda en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions lambda en Java"
+  },
+  {
+    "id": 43,
+    "question": "Quelle est une caractéristique clé de API Streams en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de API Streams en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de API Streams en Java"
+  },
+  {
+    "id": 44,
+    "question": "Quelle est une caractéristique clé de entrée/sortie de fichiers en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java"
+  },
+  {
+    "id": 45,
+    "question": "Quelle est une caractéristique clé de package NIO en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de package NIO en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de package NIO en Java"
+  },
+  {
+    "id": 46,
+    "question": "Quelle est une caractéristique clé de gestion de mémoire de la JVM en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java"
+  },
+  {
+    "id": 47,
+    "question": "Quelle est une caractéristique clé de collecte des ordures en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de collecte des ordures en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de collecte des ordures en Java"
+  },
+  {
+    "id": 48,
+    "question": "Quelle est une caractéristique clé de annotations en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de annotations en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de annotations en Java"
+  },
+  {
+    "id": 49,
+    "question": "Quelle est une caractéristique clé de réflexion en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de réflexion en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réflexion en Java"
+  },
+  {
+    "id": 50,
+    "question": "Quelle est une caractéristique clé de sérialisation en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de sérialisation en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de sérialisation en Java"
+  },
+  {
+    "id": 51,
+    "question": "Quelle est une caractéristique clé de JDBC en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de JDBC en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JDBC en Java"
+  },
+  {
+    "id": 52,
+    "question": "Quelle est une caractéristique clé de servlets en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de servlets en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de servlets en Java"
+  },
+  {
+    "id": 53,
+    "question": "Quelle est une caractéristique clé de JSP en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de JSP en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JSP en Java"
+  },
+  {
+    "id": 54,
+    "question": "Quelle est une caractéristique clé de JavaFX en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de JavaFX en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JavaFX en Java"
+  },
+  {
+    "id": 55,
+    "question": "Quelle est une caractéristique clé de Swing en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de Swing en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de Swing en Java"
+  },
+  {
+    "id": 56,
+    "question": "Quelle est une caractéristique clé de réseau (API Socket) en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de réseau (API Socket) en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réseau (API Socket) en Java"
+  },
+  {
+    "id": 57,
+    "question": "Quelle est une caractéristique clé de expressions régulières en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de expressions régulières en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions régulières en Java"
+  },
+  {
+    "id": 58,
+    "question": "Quelle est une caractéristique clé de classe Optional en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de classe Optional en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classe Optional en Java"
+  },
+  {
+    "id": 59,
+    "question": "Quelle est une caractéristique clé de utilities de concurrence en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de utilities de concurrence en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de utilities de concurrence en Java"
+  },
+  {
+    "id": 60,
+    "question": "Quelle est une caractéristique clé de classes atomiques en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de classes atomiques en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes atomiques en Java"
+  },
+  {
+    "id": 61,
+    "question": "Quelle est une caractéristique clé de classes et objets en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de classes et objets en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes et objets en Java"
+  },
+  {
+    "id": 62,
+    "question": "Quelle est une caractéristique clé de héritage en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de héritage en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de héritage en Java"
+  },
+  {
+    "id": 63,
+    "question": "Quelle est une caractéristique clé de interfaces en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de interfaces en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de interfaces en Java"
+  },
+  {
+    "id": 64,
+    "question": "Quelle est une caractéristique clé de classes abstraites en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de classes abstraites en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes abstraites en Java"
+  },
+  {
+    "id": 65,
+    "question": "Quelle est une caractéristique clé de encapsulation en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de encapsulation en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de encapsulation en Java"
+  },
+  {
+    "id": 66,
+    "question": "Quelle est une caractéristique clé de polymorphisme en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de polymorphisme en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de polymorphisme en Java"
+  },
+  {
+    "id": 67,
+    "question": "Quelle est une caractéristique clé de génériques en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de génériques en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de génériques en Java"
+  },
+  {
+    "id": 68,
+    "question": "Quelle est une caractéristique clé de framework de collections en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de framework de collections en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de framework de collections en Java"
+  },
+  {
+    "id": 69,
+    "question": "Quelle est une caractéristique clé de gestion des exceptions en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de gestion des exceptions en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion des exceptions en Java"
+  },
+  {
+    "id": 70,
+    "question": "Quelle est une caractéristique clé de multithreading en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de multithreading en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de multithreading en Java"
+  },
+  {
+    "id": 71,
+    "question": "Quelle est une caractéristique clé de synchronisation en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de synchronisation en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de synchronisation en Java"
+  },
+  {
+    "id": 72,
+    "question": "Quelle est une caractéristique clé de expressions lambda en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de expressions lambda en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions lambda en Java"
+  },
+  {
+    "id": 73,
+    "question": "Quelle est une caractéristique clé de API Streams en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de API Streams en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de API Streams en Java"
+  },
+  {
+    "id": 74,
+    "question": "Quelle est une caractéristique clé de entrée/sortie de fichiers en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java"
+  },
+  {
+    "id": 75,
+    "question": "Quelle est une caractéristique clé de package NIO en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de package NIO en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de package NIO en Java"
+  },
+  {
+    "id": 76,
+    "question": "Quelle est une caractéristique clé de gestion de mémoire de la JVM en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java"
+  },
+  {
+    "id": 77,
+    "question": "Quelle est une caractéristique clé de collecte des ordures en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de collecte des ordures en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de collecte des ordures en Java"
+  },
+  {
+    "id": 78,
+    "question": "Quelle est une caractéristique clé de annotations en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de annotations en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de annotations en Java"
+  },
+  {
+    "id": 79,
+    "question": "Quelle est une caractéristique clé de réflexion en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de réflexion en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réflexion en Java"
+  },
+  {
+    "id": 80,
+    "question": "Quelle est une caractéristique clé de sérialisation en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de sérialisation en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de sérialisation en Java"
+  },
+  {
+    "id": 81,
+    "question": "Quelle est une caractéristique clé de JDBC en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de JDBC en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JDBC en Java"
+  },
+  {
+    "id": 82,
+    "question": "Quelle est une caractéristique clé de servlets en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de servlets en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de servlets en Java"
+  },
+  {
+    "id": 83,
+    "question": "Quelle est une caractéristique clé de JSP en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de JSP en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JSP en Java"
+  },
+  {
+    "id": 84,
+    "question": "Quelle est une caractéristique clé de JavaFX en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de JavaFX en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JavaFX en Java"
+  },
+  {
+    "id": 85,
+    "question": "Quelle est une caractéristique clé de Swing en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de Swing en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de Swing en Java"
+  },
+  {
+    "id": 86,
+    "question": "Quelle est une caractéristique clé de réseau (API Socket) en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de réseau (API Socket) en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réseau (API Socket) en Java"
+  },
+  {
+    "id": 87,
+    "question": "Quelle est une caractéristique clé de expressions régulières en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de expressions régulières en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions régulières en Java"
+  },
+  {
+    "id": 88,
+    "question": "Quelle est une caractéristique clé de classe Optional en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de classe Optional en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classe Optional en Java"
+  },
+  {
+    "id": 89,
+    "question": "Quelle est une caractéristique clé de utilities de concurrence en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de utilities de concurrence en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de utilities de concurrence en Java"
+  },
+  {
+    "id": 90,
+    "question": "Quelle est une caractéristique clé de classes atomiques en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de classes atomiques en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes atomiques en Java"
+  },
+  {
+    "id": 91,
+    "question": "Quelle est une caractéristique clé de classes et objets en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de classes et objets en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes et objets en Java"
+  },
+  {
+    "id": 92,
+    "question": "Quelle est une caractéristique clé de héritage en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de héritage en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de héritage en Java"
+  },
+  {
+    "id": 93,
+    "question": "Quelle est une caractéristique clé de interfaces en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de interfaces en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de interfaces en Java"
+  },
+  {
+    "id": 94,
+    "question": "Quelle est une caractéristique clé de classes abstraites en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de classes abstraites en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes abstraites en Java"
+  },
+  {
+    "id": 95,
+    "question": "Quelle est une caractéristique clé de encapsulation en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de encapsulation en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de encapsulation en Java"
+  },
+  {
+    "id": 96,
+    "question": "Quelle est une caractéristique clé de polymorphisme en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de polymorphisme en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de polymorphisme en Java"
+  },
+  {
+    "id": 97,
+    "question": "Quelle est une caractéristique clé de génériques en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de génériques en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de génériques en Java"
+  },
+  {
+    "id": 98,
+    "question": "Quelle est une caractéristique clé de framework de collections en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de framework de collections en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de framework de collections en Java"
+  },
+  {
+    "id": 99,
+    "question": "Quelle est une caractéristique clé de gestion des exceptions en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de gestion des exceptions en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion des exceptions en Java"
+  },
+  {
+    "id": 100,
+    "question": "Quelle est une caractéristique clé de multithreading en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de multithreading en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de multithreading en Java"
+  },
+  {
+    "id": 101,
+    "question": "Quelle est une caractéristique clé de synchronisation en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de synchronisation en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de synchronisation en Java"
+  },
+  {
+    "id": 102,
+    "question": "Quelle est une caractéristique clé de expressions lambda en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de expressions lambda en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions lambda en Java"
+  },
+  {
+    "id": 103,
+    "question": "Quelle est une caractéristique clé de API Streams en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de API Streams en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de API Streams en Java"
+  },
+  {
+    "id": 104,
+    "question": "Quelle est une caractéristique clé de entrée/sortie de fichiers en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java"
+  },
+  {
+    "id": 105,
+    "question": "Quelle est une caractéristique clé de package NIO en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de package NIO en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de package NIO en Java"
+  },
+  {
+    "id": 106,
+    "question": "Quelle est une caractéristique clé de gestion de mémoire de la JVM en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java"
+  },
+  {
+    "id": 107,
+    "question": "Quelle est une caractéristique clé de collecte des ordures en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de collecte des ordures en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de collecte des ordures en Java"
+  },
+  {
+    "id": 108,
+    "question": "Quelle est une caractéristique clé de annotations en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de annotations en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de annotations en Java"
+  },
+  {
+    "id": 109,
+    "question": "Quelle est une caractéristique clé de réflexion en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de réflexion en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réflexion en Java"
+  },
+  {
+    "id": 110,
+    "question": "Quelle est une caractéristique clé de sérialisation en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de sérialisation en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de sérialisation en Java"
+  },
+  {
+    "id": 111,
+    "question": "Quelle est une caractéristique clé de JDBC en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de JDBC en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JDBC en Java"
+  },
+  {
+    "id": 112,
+    "question": "Quelle est une caractéristique clé de servlets en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de servlets en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de servlets en Java"
+  },
+  {
+    "id": 113,
+    "question": "Quelle est une caractéristique clé de JSP en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de JSP en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JSP en Java"
+  },
+  {
+    "id": 114,
+    "question": "Quelle est une caractéristique clé de JavaFX en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de JavaFX en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JavaFX en Java"
+  },
+  {
+    "id": 115,
+    "question": "Quelle est une caractéristique clé de Swing en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de Swing en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de Swing en Java"
+  },
+  {
+    "id": 116,
+    "question": "Quelle est une caractéristique clé de réseau (API Socket) en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de réseau (API Socket) en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réseau (API Socket) en Java"
+  },
+  {
+    "id": 117,
+    "question": "Quelle est une caractéristique clé de expressions régulières en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de expressions régulières en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions régulières en Java"
+  },
+  {
+    "id": 118,
+    "question": "Quelle est une caractéristique clé de classe Optional en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de classe Optional en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classe Optional en Java"
+  },
+  {
+    "id": 119,
+    "question": "Quelle est une caractéristique clé de utilities de concurrence en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de utilities de concurrence en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de utilities de concurrence en Java"
+  },
+  {
+    "id": 120,
+    "question": "Quelle est une caractéristique clé de classes atomiques en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de classes atomiques en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes atomiques en Java"
+  },
+  {
+    "id": 121,
+    "question": "Quelle est une caractéristique clé de classes et objets en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de classes et objets en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes et objets en Java"
+  },
+  {
+    "id": 122,
+    "question": "Quelle est une caractéristique clé de héritage en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de héritage en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de héritage en Java"
+  },
+  {
+    "id": 123,
+    "question": "Quelle est une caractéristique clé de interfaces en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de interfaces en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de interfaces en Java"
+  },
+  {
+    "id": 124,
+    "question": "Quelle est une caractéristique clé de classes abstraites en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de classes abstraites en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes abstraites en Java"
+  },
+  {
+    "id": 125,
+    "question": "Quelle est une caractéristique clé de encapsulation en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de encapsulation en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de encapsulation en Java"
+  },
+  {
+    "id": 126,
+    "question": "Quelle est une caractéristique clé de polymorphisme en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de polymorphisme en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de polymorphisme en Java"
+  },
+  {
+    "id": 127,
+    "question": "Quelle est une caractéristique clé de génériques en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de génériques en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de génériques en Java"
+  },
+  {
+    "id": 128,
+    "question": "Quelle est une caractéristique clé de framework de collections en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de framework de collections en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de framework de collections en Java"
+  },
+  {
+    "id": 129,
+    "question": "Quelle est une caractéristique clé de gestion des exceptions en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de gestion des exceptions en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion des exceptions en Java"
+  },
+  {
+    "id": 130,
+    "question": "Quelle est une caractéristique clé de multithreading en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de multithreading en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de multithreading en Java"
+  },
+  {
+    "id": 131,
+    "question": "Quelle est une caractéristique clé de synchronisation en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de synchronisation en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de synchronisation en Java"
+  },
+  {
+    "id": 132,
+    "question": "Quelle est une caractéristique clé de expressions lambda en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de expressions lambda en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions lambda en Java"
+  },
+  {
+    "id": 133,
+    "question": "Quelle est une caractéristique clé de API Streams en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de API Streams en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de API Streams en Java"
+  },
+  {
+    "id": 134,
+    "question": "Quelle est une caractéristique clé de entrée/sortie de fichiers en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java"
+  },
+  {
+    "id": 135,
+    "question": "Quelle est une caractéristique clé de package NIO en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de package NIO en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de package NIO en Java"
+  },
+  {
+    "id": 136,
+    "question": "Quelle est une caractéristique clé de gestion de mémoire de la JVM en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java"
+  },
+  {
+    "id": 137,
+    "question": "Quelle est une caractéristique clé de collecte des ordures en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de collecte des ordures en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de collecte des ordures en Java"
+  },
+  {
+    "id": 138,
+    "question": "Quelle est une caractéristique clé de annotations en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de annotations en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de annotations en Java"
+  },
+  {
+    "id": 139,
+    "question": "Quelle est une caractéristique clé de réflexion en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de réflexion en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réflexion en Java"
+  },
+  {
+    "id": 140,
+    "question": "Quelle est une caractéristique clé de sérialisation en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de sérialisation en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de sérialisation en Java"
+  },
+  {
+    "id": 141,
+    "question": "Quelle est une caractéristique clé de JDBC en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de JDBC en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JDBC en Java"
+  },
+  {
+    "id": 142,
+    "question": "Quelle est une caractéristique clé de servlets en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de servlets en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de servlets en Java"
+  },
+  {
+    "id": 143,
+    "question": "Quelle est une caractéristique clé de JSP en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de JSP en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JSP en Java"
+  },
+  {
+    "id": 144,
+    "question": "Quelle est une caractéristique clé de JavaFX en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de JavaFX en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JavaFX en Java"
+  },
+  {
+    "id": 145,
+    "question": "Quelle est une caractéristique clé de Swing en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de Swing en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de Swing en Java"
+  },
+  {
+    "id": 146,
+    "question": "Quelle est une caractéristique clé de réseau (API Socket) en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de réseau (API Socket) en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réseau (API Socket) en Java"
+  },
+  {
+    "id": 147,
+    "question": "Quelle est une caractéristique clé de expressions régulières en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de expressions régulières en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions régulières en Java"
+  },
+  {
+    "id": 148,
+    "question": "Quelle est une caractéristique clé de classe Optional en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de classe Optional en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classe Optional en Java"
+  },
+  {
+    "id": 149,
+    "question": "Quelle est une caractéristique clé de utilities de concurrence en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de utilities de concurrence en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de utilities de concurrence en Java"
+  },
+  {
+    "id": 150,
+    "question": "Quelle est une caractéristique clé de classes atomiques en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de classes atomiques en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes atomiques en Java"
+  },
+  {
+    "id": 151,
+    "question": "Quelle est une caractéristique clé de classes et objets en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de classes et objets en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes et objets en Java"
+  },
+  {
+    "id": 152,
+    "question": "Quelle est une caractéristique clé de héritage en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de héritage en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de héritage en Java"
+  },
+  {
+    "id": 153,
+    "question": "Quelle est une caractéristique clé de interfaces en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de interfaces en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de interfaces en Java"
+  },
+  {
+    "id": 154,
+    "question": "Quelle est une caractéristique clé de classes abstraites en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de classes abstraites en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes abstraites en Java"
+  },
+  {
+    "id": 155,
+    "question": "Quelle est une caractéristique clé de encapsulation en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de encapsulation en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de encapsulation en Java"
+  },
+  {
+    "id": 156,
+    "question": "Quelle est une caractéristique clé de polymorphisme en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de polymorphisme en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de polymorphisme en Java"
+  },
+  {
+    "id": 157,
+    "question": "Quelle est une caractéristique clé de génériques en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de génériques en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de génériques en Java"
+  },
+  {
+    "id": 158,
+    "question": "Quelle est une caractéristique clé de framework de collections en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de framework de collections en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de framework de collections en Java"
+  },
+  {
+    "id": 159,
+    "question": "Quelle est une caractéristique clé de gestion des exceptions en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de gestion des exceptions en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion des exceptions en Java"
+  },
+  {
+    "id": 160,
+    "question": "Quelle est une caractéristique clé de multithreading en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de multithreading en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de multithreading en Java"
+  },
+  {
+    "id": 161,
+    "question": "Quelle est une caractéristique clé de synchronisation en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de synchronisation en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de synchronisation en Java"
+  },
+  {
+    "id": 162,
+    "question": "Quelle est une caractéristique clé de expressions lambda en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de expressions lambda en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions lambda en Java"
+  },
+  {
+    "id": 163,
+    "question": "Quelle est une caractéristique clé de API Streams en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de API Streams en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de API Streams en Java"
+  },
+  {
+    "id": 164,
+    "question": "Quelle est une caractéristique clé de entrée/sortie de fichiers en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java"
+  },
+  {
+    "id": 165,
+    "question": "Quelle est une caractéristique clé de package NIO en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de package NIO en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de package NIO en Java"
+  },
+  {
+    "id": 166,
+    "question": "Quelle est une caractéristique clé de gestion de mémoire de la JVM en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java"
+  },
+  {
+    "id": 167,
+    "question": "Quelle est une caractéristique clé de collecte des ordures en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de collecte des ordures en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de collecte des ordures en Java"
+  },
+  {
+    "id": 168,
+    "question": "Quelle est une caractéristique clé de annotations en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de annotations en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de annotations en Java"
+  },
+  {
+    "id": 169,
+    "question": "Quelle est une caractéristique clé de réflexion en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de réflexion en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réflexion en Java"
+  },
+  {
+    "id": 170,
+    "question": "Quelle est une caractéristique clé de sérialisation en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de sérialisation en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de sérialisation en Java"
+  },
+  {
+    "id": 171,
+    "question": "Quelle est une caractéristique clé de JDBC en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de JDBC en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JDBC en Java"
+  },
+  {
+    "id": 172,
+    "question": "Quelle est une caractéristique clé de servlets en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de servlets en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de servlets en Java"
+  },
+  {
+    "id": 173,
+    "question": "Quelle est une caractéristique clé de JSP en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de JSP en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JSP en Java"
+  },
+  {
+    "id": 174,
+    "question": "Quelle est une caractéristique clé de JavaFX en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de JavaFX en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de JavaFX en Java"
+  },
+  {
+    "id": 175,
+    "question": "Quelle est une caractéristique clé de Swing en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de Swing en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de Swing en Java"
+  },
+  {
+    "id": 176,
+    "question": "Quelle est une caractéristique clé de réseau (API Socket) en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de réseau (API Socket) en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réseau (API Socket) en Java"
+  },
+  {
+    "id": 177,
+    "question": "Quelle est une caractéristique clé de expressions régulières en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de expressions régulières en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions régulières en Java"
+  },
+  {
+    "id": 178,
+    "question": "Quelle est une caractéristique clé de classe Optional en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de classe Optional en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classe Optional en Java"
+  },
+  {
+    "id": 179,
+    "question": "Quelle est une caractéristique clé de utilities de concurrence en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de utilities de concurrence en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de utilities de concurrence en Java"
+  },
+  {
+    "id": 180,
+    "question": "Quelle est une caractéristique clé de classes atomiques en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de classes atomiques en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes atomiques en Java"
+  },
+  {
+    "id": 181,
+    "question": "Quelle est une caractéristique clé de classes et objets en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de classes et objets en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes et objets en Java"
+  },
+  {
+    "id": 182,
+    "question": "Quelle est une caractéristique clé de héritage en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de héritage en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de héritage en Java"
+  },
+  {
+    "id": 183,
+    "question": "Quelle est une caractéristique clé de interfaces en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de interfaces en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de interfaces en Java"
+  },
+  {
+    "id": 184,
+    "question": "Quelle est une caractéristique clé de classes abstraites en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de classes abstraites en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de classes abstraites en Java"
+  },
+  {
+    "id": 185,
+    "question": "Quelle est une caractéristique clé de encapsulation en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de encapsulation en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de encapsulation en Java"
+  },
+  {
+    "id": 186,
+    "question": "Quelle est une caractéristique clé de polymorphisme en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de polymorphisme en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de polymorphisme en Java"
+  },
+  {
+    "id": 187,
+    "question": "Quelle est une caractéristique clé de génériques en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de génériques en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de génériques en Java"
+  },
+  {
+    "id": 188,
+    "question": "Quelle est une caractéristique clé de framework de collections en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de framework de collections en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de framework de collections en Java"
+  },
+  {
+    "id": 189,
+    "question": "Quelle est une caractéristique clé de gestion des exceptions en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de gestion des exceptions en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion des exceptions en Java"
+  },
+  {
+    "id": 190,
+    "question": "Quelle est une caractéristique clé de multithreading en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de multithreading en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de multithreading en Java"
+  },
+  {
+    "id": 191,
+    "question": "Quelle est une caractéristique clé de synchronisation en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de synchronisation en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de synchronisation en Java"
+  },
+  {
+    "id": 192,
+    "question": "Quelle est une caractéristique clé de expressions lambda en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de expressions lambda en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de expressions lambda en Java"
+  },
+  {
+    "id": 193,
+    "question": "Quelle est une caractéristique clé de API Streams en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de API Streams en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle optimise le style CSS en Java",
+      "Elle améliore l'interopérabilité avec Python"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de API Streams en Java"
+  },
+  {
+    "id": 194,
+    "question": "Quelle est une caractéristique clé de entrée/sortie de fichiers en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java",
+      "Elle optimise le style CSS en Java",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de entrée/sortie de fichiers en Java"
+  },
+  {
+    "id": 195,
+    "question": "Quelle est une caractéristique clé de package NIO en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de package NIO en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de package NIO en Java"
+  },
+  {
+    "id": 196,
+    "question": "Quelle est une caractéristique clé de gestion de mémoire de la JVM en Java ?",
+    "options": [
+      "Elle optimise le style CSS en Java",
+      "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de gestion de mémoire de la JVM en Java"
+  },
+  {
+    "id": 197,
+    "question": "Quelle est une caractéristique clé de collecte des ordures en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de collecte des ordures en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de collecte des ordures en Java"
+  },
+  {
+    "id": 198,
+    "question": "Quelle est une caractéristique clé de annotations en Java ?",
+    "options": [
+      "Elle fournit la capacité fondamentale de annotations en Java",
+      "Elle gère directement les transactions SQL",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de annotations en Java"
+  },
+  {
+    "id": 199,
+    "question": "Quelle est une caractéristique clé de réflexion en Java ?",
+    "options": [
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de réflexion en Java",
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de réflexion en Java"
+  },
+  {
+    "id": 200,
+    "question": "Quelle est une caractéristique clé de sérialisation en Java ?",
+    "options": [
+      "Elle améliore l'interopérabilité avec Python",
+      "Elle gère directement les transactions SQL",
+      "Elle fournit la capacité fondamentale de sérialisation en Java",
+      "Elle optimise le style CSS en Java"
+    ],
+    "answer": "Elle fournit la capacité fondamentale de sérialisation en Java"
+  }
+]
